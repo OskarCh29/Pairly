@@ -66,11 +66,25 @@ Instead of switching between calendars, messaging applications, photo galleries 
 
 ## Vision Statement
 
-> 
+Pairly is more than a planning application. It is a living digital journal that grows together with every couple. Every shared event, memory, achievement and conversation becomes another chapter in their unique story.
+
+The purpose of Pairly is to preserve the journey of a relationship while helping couples create new experiences together. Organization is not the goal itself. It is the foundation that allows meaningful memories to be created naturally.
+
+Pairly aims to become the trusted home of every relationship, where partners can look back at where they started, celebrate how far they have come and build the future together.
+
+---
 
 ## Long-Term Vision
 
+Our long-term vision is to make Pairly the most trusted digital companion for couples around the world.
 
+We envision a platform that not only helps organize everyday life but also preserves the emotional history of a relationship. Over time, Pairly should evolve alongside its users, becoming a personal archive of shared experiences, achievements, milestones and memories.
+
+Every new feature introduced into Pairly should answer one fundamental question:
+
+> **Does this help enrich the couple's shared story?**
+
+If the answer is no, the feature does not belong in Pairly.
 
 ---
 
