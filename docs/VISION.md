@@ -1,14 +1,13 @@
 # Pairly Vision
 
-> "A private digital workspace for couples."
+> "Let me show you my Pairly...."
 
 ---
 
 # Document Information
 
-
 | Property     | Value             |
-| ------------ | ----------------- |
+|--------------|-------------------|
 | Version      | 0.1               |
 | Status       | Draft             |
 | Owner        | Oskar Charytoniuk |
@@ -38,22 +37,29 @@
 ---
 
 # Executive Summary
+
 ## Overview
 
-Pairly is a private relationship workspace designed exclusively for couples. It helps partners organize their shared life, plan meaningful experiences and preserve memories in one secure place.
+Pairly is a private relationship workspace designed exclusively for couples. It helps partners organize their shared
+life, plan meaningful experiences and preserve memories in one secure place.
 
-Unlike traditional productivity or messaging applications, Pairly focuses entirely on the relationship itself. Every event, memory, achievement and conversation becomes part of a shared digital journal that grows together with the couple over time.
+Unlike traditional productivity or messaging applications, Pairly focuses entirely on the relationship itself. Every
+event, memory, achievement and conversation becomes part of a shared digital journal that grows together with the couple
+over time.
 
-The goal of Pairly is not only to simplify organization but also to encourage couples to spend more quality time together and create meaningful memories that can be revisited in the future.
+The goal of Pairly is not only to simplify organization but also to encourage couples to spend more quality time
+together and create meaningful memories that can be revisited in the future.
+
 ## Value Proposition
 
-Modern couples often rely on multiple disconnected applications to manage different aspects of their relationship. Pairly replaces fragmented workflows with one dedicated workspace created specifically for two people.
+Modern couples often rely on multiple disconnected applications to manage different aspects of their relationship.
+Pairly replaces fragmented workflows with one dedicated workspace created specifically for two people.
 
-Instead of switching between calendars, messaging applications, photo galleries and notes, couples have one shared place where their relationship naturally evolves over time.
-
+Instead of switching between calendars, messaging applications, photo galleries and notes, couples have one shared place
+where their relationship naturally evolves over time.
 
 | Problem       | Pairly Solution                            |
-| ------------- | ------------------------------------------ |
+|---------------|--------------------------------------------|
 | Planning      | Shared calendar                            |
 | Communication | Built-in real-time chat                    |
 | Memories      | Timeline with photos                       |
@@ -66,11 +72,15 @@ Instead of switching between calendars, messaging applications, photo galleries 
 
 ## Vision Statement
 
-Pairly is more than a planning application. It is a living digital journal that grows together with every couple. Every shared event, memory, achievement and conversation becomes another chapter in their unique story.
+Pairly is more than a planning application. It is a living digital journal that grows together with every couple. Every
+shared event, memory, achievement and conversation becomes another chapter in their unique story.
 
-The purpose of Pairly is to preserve the journey of a relationship while helping couples create new experiences together. Organization is not the goal itself. It is the foundation that allows meaningful memories to be created naturally.
+The purpose of Pairly is to preserve the journey of a relationship while helping couples create new experiences
+together. Organization is not the goal itself. It is the foundation that allows meaningful memories to be created
+naturally.
 
-Pairly aims to become the trusted home of every relationship, where partners can look back at where they started, celebrate how far they have come and build the future together.
+Pairly aims to become the trusted home of every relationship, where partners can look back at where they started,
+celebrate how far they have come and build the future together.
 
 ---
 
@@ -78,7 +88,9 @@ Pairly aims to become the trusted home of every relationship, where partners can
 
 Our long-term vision is to make Pairly the most trusted digital companion for couples around the world.
 
-We envision a platform that not only helps organize everyday life but also preserves the emotional history of a relationship. Over time, Pairly should evolve alongside its users, becoming a personal archive of shared experiences, achievements, milestones and memories.
+We envision a platform that not only helps organize everyday life but also preserves the emotional history of a
+relationship. Over time, Pairly should evolve alongside its users, becoming a personal archive of shared experiences,
+achievements, milestones and memories.
 
 Every new feature introduced into Pairly should answer one fundamental question:
 
@@ -92,11 +104,30 @@ If the answer is no, the feature does not belong in Pairly.
 
 ## Why does Pairly exist?
 
+Pairly exists to give every couple a private place that belongs only to them.
 
+Modern relationships are often spread across multiple disconnected applications. Conversations happen in messaging apps,
+plans are stored in calendars, photos are saved in cloud galleries and memories are scattered between different
+services. While each of these tools solves a specific problem, none of them tells the complete story of a relationship.
+
+Pairly brings these moments together into one living relationship journal. It is not designed to replace existing
+communication or productivity tools, but to complement them by becoming a shared home for memories, milestones,
+experiences and future plans.
+
+The purpose of Pairly is to help couples preserve their past, organize their present and build their future while
+creating a digital story that grows together with their relationship.
+
+---
 
 ## Business Motivation
 
+Pairly started as a personal project driven by a real need rather than a business opportunity.
 
+The primary goal is to create a product that its creators genuinely use every day. By solving real problems experienced
+in everyday relationships, Pairly becomes both a practical tool and a long-term software engineering project.
+
+In the long term, Pairly has the potential to evolve into an international SaaS platform trusted by couples around the
+world without losing its original values of privacy, simplicity and authenticity.
 
 ---
 
@@ -104,29 +135,41 @@ If the answer is no, the feature does not belong in Pairly.
 
 ## Current Situation
 
+Today's couples rely on multiple independent applications to manage different aspects of their relationship. Important
+dates are stored in calendars, conversations happen in messaging apps, memories are scattered across cloud storage, and
+ideas for future dates often require searching through the internet or asking AI assistants repeatedly.
 
+While these tools solve individual problems, none of them are designed around the relationship itself. As a result,
+couples constantly switch between applications and lose the feeling of having one shared, personal space.
 
 ## Challenges
 
-- ...
-- ...
-- ...
+- Relationship information is fragmented across multiple unrelated applications.
+- Important milestones, anniversaries, and shared memories are difficult to organize in a meaningful way.
+- Couples often fall into routine and lack inspiration for spending quality time together.
+- Existing tools focus on productivity or communication rather than strengthening the relationship.
+- Photos and memories become large, unorganized collections instead of a shared timeline of meaningful moments.
 
 ## Opportunity
 
+Pairly creates a dedicated digital space designed exclusively for two people. Instead of replacing existing
+communication tools, it complements them by bringing together memories, planning, inspiration, and relationship
+milestones into one private, shared experience.
 
 
 ---
 
 # Existing Alternatives
 
-
-| Need     | Current Solution     | Limitation                     |
-| -------- | -------------------- | ------------------------------ |
-| Planning | Google Calendar      | No relationship context        |
-| Chat     | Messenger / WhatsApp | Mixed with other conversations |
-| Memories | Google Photos        | No shared timeline             |
-| Notes    | Google Keep          | Difficult to organize          |
+| Need          | Current Solution     | Limitation                        |
+|---------------|----------------------|-----------------------------------|
+| Planning      | Google Calendar      | No relationship context           |
+| Communication | Messenger / WhatsApp | Mixed with everyday conversations |
+| Memories      | Google Photos        | No shared timeline                |
+| Shared Tasks  | Google Keep          | Generic productivity tool         |
+| Date Ideas    | ChatGPT / Pinterest  | No personalization                |
+| Bucket List   | Notes                | Difficult to revisit              |
+| Shared goals  | Spreadsheet          | Not integrated                    | 
 
 ---
 
@@ -134,9 +177,16 @@ If the answer is no, the feature does not belong in Pairly.
 
 ## Competitive Advantages
 
-- ...
-- ...
-- ...
+- Relationship-First Design
+  - Every feature in Pairly is designed around one relationship rather than individual productivity. Instead of adapting generic tools for couples, Pairly is built from the ground up for two people sharing one life together.
+- Living Relationship Journal
+  - Pairly evolves together with its users. Memories, milestones, achievements and future plans become part of a continuously growing story instead of isolated pieces of information scattered across different services.
+- One Shared Digital Home
+  - Instead of switching between multiple applications, couples have one dedicated private space where planning, memories, communication and inspiration naturally connect together.
+- Emotional Product Experience
+  - Pairly is designed to create positive emotions, not just improve productivity. Every interaction should remind couples of their shared journey and encourage them to create new memories together.
+- Privacy by Design
+  - Relationships are deeply personal. Pairly is built around privacy from the very beginning, ensuring that shared memories and conversations belong only to the couple.
 
 ---
 
@@ -144,11 +194,28 @@ If the answer is no, the feature does not belong in Pairly.
 
 ## Primary Users
 
-...
+Couples who want a dedicated private space to organize and preserve their relationship.
+
+Typical users are partners who actively build a shared life together by planning trips, celebrating milestones, creating memories and managing everyday activities. They value privacy, simplicity and meaningful digital experiences over generic productivity tools.
+
+Primary users typically:
+
+- are in a committed relationship;
+- use multiple applications for planning, communication and storing memories;
+- enjoy documenting shared experiences through photos and milestones;
+- appreciate thoughtful product design and privacy;
+- want to strengthen their relationship through better organization and shared experiences.
 
 ## Secondary Users
 
-...
+While Pairly is designed primarily for couples, the platform may also appeal to users who value shared organization in close personal relationships.
+
+Potential secondary audiences include:
+- newly engaged couples preparing for marriage;
+- newlyweds organizing their first years together;
+- long-distance couples who want to feel more connected;
+- married couples looking for a digital archive of their relationship;
+- future family-oriented users as the platform evolves.
 
 ---
 
@@ -166,9 +233,8 @@ If the answer is no, the feature does not belong in Pairly.
 
 # Product Principles
 
-
 | Principle               | Description |
-| ----------------------- | ----------- |
+|-------------------------|-------------|
 | Privacy First           | ...         |
 | Simplicity              | ...         |
 | Reliability             | ...         |
@@ -195,9 +261,8 @@ If the answer is no, the feature does not belong in Pairly.
 
 # MVP Scope
 
-
 | Feature   | Priority | Description |
-| --------- | -------- | ----------- |
+|-----------|----------|-------------|
 | Dashboard | High     | ...         |
 | Calendar  | High     | ...         |
 | Chat      | Medium   | ...         |
@@ -206,9 +271,8 @@ If the answer is no, the feature does not belong in Pairly.
 
 # Future Scope
 
-
 | Feature             | Planned Version |
-| ------------------- | --------------- |
+|---------------------|-----------------|
 | AI Assistant        | v2              |
 | Mobile App          | v2              |
 | Spotify Integration | v3              |
@@ -244,9 +308,8 @@ Pairly is not intended to become:
 
 # Risks
 
-
 | Risk                    | Mitigation         |
-| ----------------------- | ------------------ |
+|-------------------------|--------------------|
 | Scope grows too fast    | Focus on MVP       |
 | AI costs                | Optional AI module |
 | Third-party API changes | Adapter pattern    |
@@ -255,9 +318,8 @@ Pairly is not intended to become:
 
 # Glossary
 
-
 | Term      | Description           |
-| --------- | --------------------- |
+|-----------|-----------------------|
 | Couple    | Two connected users   |
 | Dashboard | Main application page |
 | Timeline  | Shared memories       |
