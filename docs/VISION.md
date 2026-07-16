@@ -178,15 +178,20 @@ milestones into one private, shared experience.
 ## Competitive Advantages
 
 - Relationship-First Design
-  - Every feature in Pairly is designed around one relationship rather than individual productivity. Instead of adapting generic tools for couples, Pairly is built from the ground up for two people sharing one life together.
+    - Every feature in Pairly is designed around one relationship rather than individual productivity. Instead of
+      adapting generic tools for couples, Pairly is built from the ground up for two people sharing one life together.
 - Living Relationship Journal
-  - Pairly evolves together with its users. Memories, milestones, achievements and future plans become part of a continuously growing story instead of isolated pieces of information scattered across different services.
+    - Pairly evolves together with its users. Memories, milestones, achievements and future plans become part of a
+      continuously growing story instead of isolated pieces of information scattered across different services.
 - One Shared Digital Home
-  - Instead of switching between multiple applications, couples have one dedicated private space where planning, memories, communication and inspiration naturally connect together.
+    - Instead of switching between multiple applications, couples have one dedicated private space where planning,
+      memories, communication and inspiration naturally connect together.
 - Emotional Product Experience
-  - Pairly is designed to create positive emotions, not just improve productivity. Every interaction should remind couples of their shared journey and encourage them to create new memories together.
+    - Pairly is designed to create positive emotions, not just improve productivity. Every interaction should remind
+      couples of their shared journey and encourage them to create new memories together.
 - Privacy by Design
-  - Relationships are deeply personal. Pairly is built around privacy from the very beginning, ensuring that shared memories and conversations belong only to the couple.
+    - Relationships are deeply personal. Pairly is built around privacy from the very beginning, ensuring that shared
+      memories and conversations belong only to the couple.
 
 ---
 
@@ -196,7 +201,9 @@ milestones into one private, shared experience.
 
 Couples who want a dedicated private space to organize and preserve their relationship.
 
-Typical users are partners who actively build a shared life together by planning trips, celebrating milestones, creating memories and managing everyday activities. They value privacy, simplicity and meaningful digital experiences over generic productivity tools.
+Typical users are partners who actively build a shared life together by planning trips, celebrating milestones, creating
+memories and managing everyday activities. They value privacy, simplicity and meaningful digital experiences over
+generic productivity tools.
 
 Primary users typically:
 
@@ -208,9 +215,11 @@ Primary users typically:
 
 ## Secondary Users
 
-While Pairly is designed primarily for couples, the platform may also appeal to users who value shared organization in close personal relationships.
+While Pairly is designed primarily for couples, the platform may also appeal to users who value shared organization in
+close personal relationships.
 
 Potential secondary audiences include:
+
 - newly engaged couples preparing for marriage;
 - newlyweds organizing their first years together;
 - long-distance couples who want to feel more connected;
@@ -221,25 +230,57 @@ Potential secondary audiences include:
 
 # User Personas
 
-## Persona #1
+## Persona #1 - Young Couple - Anna (25) Michael (27)
 
-...
+Anna and Michael have been together for three years and recently moved in together.
+They frequently travel, celebrate anniversaries, take photos, and enjoy discovering new experiences together. They
+currently rely on multiple applications to manage their relationship, making it difficult to keep everything organized.
 
-## Persona #2
+## Goals
 
-...
+- Keep memories in one place.
+- Plan trips and important events.
+- Discover new date ideas.
+- Build a timeline of their relationship.
+
+## Pain Points
+
+- Photos are scattered across cloud storage.
+- Important dates are easy to forget.
+- Planning requires switching between several apps.
+- No single place feels like "theirs."
+
+## Persona #2 - Long-Distance Couple - Emma (24) & Daniel (26)
+
+Emma and Daniel live in different cities because of work.
+They communicate daily but miss having a shared place to collect memories, plan future visits, and feel connected
+despite the distance.
+
+## Goals
+
+- Stay connected.
+- Plan future visits.
+- Preserve shared memories.
+- Feel closer despite the distance.
+
+## Pain Points
+
+- Conversations disappear in messaging apps.
+- Planning trips is fragmented.
+- No shared timeline of their relationship.
 
 ---
 
 # Product Principles
 
-| Principle               | Description |
-|-------------------------|-------------|
-| Privacy First           | ...         |
-| Simplicity              | ...         |
-| Reliability             | ...         |
-| Real-Time Collaboration | ...         |
-| AI Assistance           | ...         |
+| Principle               | Description                                                                   |
+|-------------------------|-------------------------------------------------------------------------------|
+| Relationship First      | Every feature should strengthen or support the couple's shared journey.       |
+| Simplicity              | The application should remain intuitive and enjoyable to use.                 |
+| Long-Term Value         | Pairly should become more valuable as the relationship grows.                 |
+| Real-Time Collaboration | Both partners share the same living workspace with instant synchronization.   |
+| AI Assistance           | AI should inspire and support couples, never replace meaningful interactions. |
+| Privacy First           | Personal memories and conversations always belong to the couple.              |
 
 ---
 
@@ -247,35 +288,52 @@ Potential secondary audiences include:
 
 ## User Goals
 
-...
+- Help couples organize their shared lives.
+- Preserve meaningful memories.
+- Encourage spending quality time together.
+- Reduce fragmentation across multiple applications.
 
 ## Technical Goals
 
-...
+- Cloud-native architecture.
+- Secure by design.
+- Real-time synchronization.
+- Modular backend architecture.
+- Scalable SaaS platform.
 
 ## Business Goals
 
-...
+- Validate product-market fit.
+- Build an engaged early adopter community.
+- Launch a sustainable subscription model.
+- Grow into an international SaaS product.
 
 ---
 
 # MVP Scope
 
-| Feature   | Priority | Description |
-|-----------|----------|-------------|
-| Dashboard | High     | ...         |
-| Calendar  | High     | ...         |
-| Chat      | Medium   | ...         |
+| Feature                 | Priority | Description                                                           |
+|-------------------------|----------|-----------------------------------------------------------------------|
+| Dashboard               | High     | Personalized home for every couple.                                   |
+| Shared Calendar         | High     | Important dates, anniversaries and events.                            |
+| Timeline                | High     | Shared memories with photos and milestones.                           |
+| Date Ideas              | High     | Save and organize future activities together.                         |
+| Relationship Counter    | Medium   | Time together and important milestones.                               |
+| Shared Notes            | Medium   | Shared Notes                                                          | 
+| Personalized Achivments | Medium   | Each side of the relationship has personal goals with global progress |
 
 ---
 
 # Future Scope
 
-| Feature             | Planned Version |
-|---------------------|-----------------|
-| AI Assistant        | v2              |
-| Mobile App          | v2              |
-| Spotify Integration | v3              |
+| Feature                  | Planned Version |
+|--------------------------|-----------------|
+| AI Assistant             | v2              |
+| Native Mobile Apps       | v2              |
+| Shared Wishlist          | v2              | 
+| Travel Planner           | v2              |
+| AI Relationship Insights | v3              |
+| Spotify Integration      | v3              |
 
 ---
 
@@ -283,15 +341,25 @@ Potential secondary audiences include:
 
 ## Product Metrics
 
-...
+- Daily Active Couples (DAC)
+- Weekly Retention
+- Number of Memories Created
+- Number of Shared Events
+- Average Session Duration
 
 ## Technical Metrics
 
-...
+- 99.9% uptime
+- API response <200 ms
+- Real-time synchronization latency <500 ms
+- Crash-free sessions >99%
 
 ## Business Metrics
 
-...
+- Monthly Recurring Revenue
+- Free-to-Paid Conversion
+- User Retention
+- Customer Satisfaction (NPS)
 
 ---
 
@@ -303,16 +371,24 @@ Pairly is not intended to become:
 - Social media platform
 - Public community
 - Messenger replacement
+- Generic AI chatbot
+- File storage service
+- Family management platform
+- General productivity platform
 
 ---
 
 # Risks
 
-| Risk                    | Mitigation         |
-|-------------------------|--------------------|
-| Scope grows too fast    | Focus on MVP       |
-| AI costs                | Optional AI module |
-| Third-party API changes | Adapter pattern    |
+| Risk                     | Mitigation                                                             |
+|--------------------------|------------------------------------------------------------------------|
+| Scope grows too fast     | Focus on MVP                                                           |
+| AI costs                 | Optional AI module                                                     |
+| Third-party API changes  | Adapter pattern                                                        |
+| Low long-term engagement | Build features that become more valuable over time                     |
+| Privacy concerns         | End-to-end encryption where appropriate and transparent privacy policy |
+| Strong competition       | Differentiate through relationship-first experience                    |
+| Feature creep            | Validate every feature against the Product Vision                      | 
 
 ---
 
